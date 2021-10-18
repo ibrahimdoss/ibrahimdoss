@@ -1,4 +1,4 @@
-# Merhaba, Ben İbrahim Halil DÖŞ ! 
+# Hello, I'm İbrahim Halil DÖŞ ! 
 <img align = "left" width = "150" height = "150" alt = "Dani Akash" src = "https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" />
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=ibrahimdoss&show_icons=true alt=ibrahimdoss /> </p>
 
