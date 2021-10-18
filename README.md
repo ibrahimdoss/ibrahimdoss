@@ -3,7 +3,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ibrahimdoss.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=ibrahimdoss&show_icons=true alt=ibrahimdoss /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ibrahimdoss&show_icons=true&theme=gotham" alt="ibrahimdoss" />
 
 
 I'm a back-end software developer. 
@@ -19,8 +19,17 @@ I am happy to help.
 
 ## Languages and Tools:
 <img src="https://img.shields.io/badge/Java-CC2927?style=for-the-badge&logo=java&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Spring-239120?style=for-the-badge&logo=java&logoColor=white"></img>
+
+<img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=html5&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C%23-E34F26?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+
+
 
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MySQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+<img src="https://img.shields.io/badge/PostgreSQl-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
