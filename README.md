@@ -1,7 +1,6 @@
 # Merhaba, Ben İbrahim Halil DÖŞ ! 
 <img align = "left" width = "150" height = "150" alt = "Dani Akash" src = "https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" />
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=encausse&show_icons=true&theme=highcontrast">
-
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=ibrahimdoss&show_icons=true alt=ibrahimdoss /> </p>
 
 Yazılıma büyük ilgi duyan yönetim bilişim sistemler öğrencisiyim. Yeni teknolojik bilgileri öğrenmeye hevesli birisiyim. Herkesten her şey hakkında yeni bilgiler öğrenmek için sürekli bilgi paylaşımı yaparım. Takım çalışmasına uyumlu ve analitik düşünmeyi seven birisiyim.
 
