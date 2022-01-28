@@ -22,8 +22,6 @@ I am happy to help.
 <img src="https://img.shields.io/badge/Spring-239120?style=for-the-badge&logo=java&logoColor=white"></img>
 
 <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=html5&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Go-F7DF1E?style=for-the-badge&logo=html5&logoColor=white"></img>
-
 <img src="https://img.shields.io/badge/C%23-E34F26?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 
 
