@@ -1,5 +1,4 @@
 # Hello, I'm İbrahim Halil DÖŞ ! 
-<img align = "left" width = "150" height = "150" alt = "Dani Akash" src = "https://raw.githubusercontent.com/DaniAkash/DaniAkash/master/assets/avatar.png" />
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ibrahimdoss.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
