@@ -1,4 +1,4 @@
-# Hello, I'm İbrahim Halil DÖŞ ! 
+# Hello, I'm Ibrahim Halil DOS ! 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ibrahimdoss.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
